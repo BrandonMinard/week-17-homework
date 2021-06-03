@@ -1,12 +1,12 @@
 const mongoose = require('mongoose');
 
 const workoutSchema = new mongoose.Schema({
-    date: {
+    day: {
         type: Date,
         //default to today.
         default: Date.now()
     },
-    exerciseArray: [
+    exercises: [
         {
             type: {
                 type: String,
