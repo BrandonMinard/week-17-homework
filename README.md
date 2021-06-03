@@ -16,7 +16,7 @@ Tracks workouts and exercises and shows you stats about them
 
 ## Installation
 
-Go to "URL HERE"
+Go to https://calm-forest-93202.herokuapp.com/
 
 ## Usage
 
