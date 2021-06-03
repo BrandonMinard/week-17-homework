@@ -6,6 +6,7 @@ mongoose.connect("mongodb://localhost/workout_db", {
   useFindAndModify: false
 });
 
+
 let workoutSeed = [
   {
     //some days were fucked up, fixed though, no thanks to you guys.
